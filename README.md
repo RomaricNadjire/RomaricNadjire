@@ -28,7 +28,7 @@ Python (FastAPI, Streamlit), Java (Spring Boot), PHP (Laravel), Node.js, Flutter
 | [yolov8-face-recognition](https://github.com/RomaricNadjire/yolov8-face-recognition) | Détection d'objets et de visages en temps réel, reconnaissance faciale LBPH | Ultralytics YOLOv8, OpenCV |
 | [coffee-shop-sales-analysis](https://github.com/RomaricNadjire/coffee-shop-sales-analysis) | Analyse de 149 k transactions : tendances, magasins, produits, heures | Pandas, Seaborn |
 | [credit-card-fraud-random-forest](https://github.com/RomaricNadjire/credit-card-fraud-random-forest) | Random Forest, validation croisée, importance des variables, ROC | Scikit-learn |
-| [air-quality-data-cleaning](https://github.com/RomaricNadjire/air-quality-data-cleaning) | Nettoyage du dataset UCI Air Quality : imputation argumentée, outliers (Z-score, IQR) | Pandas, ucimlrepo |
+| [iot-sensor-data-quality](https://github.com/RomaricNadjire/iot-sensor-data-quality) | Nettoyage du dataset UCI Air Quality : imputation argumentée, outliers (Z-score, IQR) | Pandas, ucimlrepo |
 
 <!-- TODO : ajouter iot-sensor-data-quality et neural-networks-from-scratch-numpy une fois rendus publics, et un projet Software (CRUNCH ou équivalent). -->
 
