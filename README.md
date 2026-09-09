@@ -38,7 +38,7 @@ Python (FastAPI, Streamlit), Java (Spring Boot), PHP (Laravel), Node.js, Flutter
 
 ## Formation
 
-- **M1 Intelligence Artificielle** — École Polytechnique de Lomé (en cours)
+- **M2 Intelligence Artificielle** — École Polytechnique de Lomé (en cours)
 - `TODO : diplôme(s) antérieur(s) — ex. Licence en informatique, établissement, années`
 
 ## Contact
