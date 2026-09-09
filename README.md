@@ -119,6 +119,15 @@ Analyse exploratoire de données transactionnelles pour identifier tendances, pr
 
 <br>
 
+## Réalisations web
+
+Quelques solutions web développées pour des clients, en complément de mes projets Data & AI.
+
+* **[W-Inspirations](https://winspirationdesign.com/)** - Plateforme web de présentation et de vente de mobilier sur mesure, avec catalogue de produits, panier, suivi de commande et demande de devis.
+* **[Mon Répétiteur](https://monrepetiteurtg.com/)** - Plateforme web dédiée aux services de répétition scolaire au Togo.
+
+Ces réalisations illustrent mon expérience en **analyse des besoins, conception, développement full-stack et mise en ligne de solutions web**.
+
 ## Technologies
 
 **Data & ML**
