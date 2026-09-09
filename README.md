@@ -21,6 +21,8 @@ Je m'intéresse particulièrement à la **valorisation de données réelles**, �
 
 - Conception de pipelines ETL / ELT
 - Ingestion et transformation de données
+- Orchestration de workflows avec Airflow
+- Intégration et flux de données avec Apache NiFi
 - Streaming avec Kafka
 - Traitement distribué avec Spark
 - SQL et bases de données
