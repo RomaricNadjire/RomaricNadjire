@@ -9,7 +9,7 @@
 Je m'intéresse particulièrement à la **valorisation de données réelles**, à la construction de **pipelines fiables** et aux applications de l'IA aux **langues africaines peu dotées**, notamment l'éwé.
 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-romaricnadjire-FFD21E?style=flat-square&logo=huggingface&logoColor=yellow)](https://huggingface.co/romaricnadjire)
-[![Email](https://img.shields.io/badge/Email-romaricnadjire07%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=red)](mailto:romaricnadjire07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-romaricnadjire07%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:romaricnadjire07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-RomaricNadjire-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RomaricNadjire)
 
 </div>
@@ -168,7 +168,7 @@ Ces réalisations illustrent mon expérience en **analyse des besoins, conceptio
 
 **Merci de votre visite !** N'hésitez pas à me contacter pour toute collaboration.
 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-romaricnadjire-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/romaricnadjire)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-romaricnadjire-FFD21E?style=flat-square&logo=huggingface&logoColor=yellow)](https://huggingface.co/romaricnadjire)
 [![Email](https://img.shields.io/badge/Email-romaricnadjire07%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:romaricnadjire07@gmail.com)
 
 </div>
