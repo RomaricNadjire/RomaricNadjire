@@ -64,7 +64,7 @@ Je m'intéresse particulièrement à la **valorisation de données réelles**, �
 - REST APIs
 - Git & Docker
 
-## Projets sélectionnés
+## Projets Data & AI récents
 
 <table>
 <tr>
