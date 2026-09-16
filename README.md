@@ -4,7 +4,7 @@
 
 ### Data Science · Machine Learning · Data Engineering
 
-Étudiant en **Master 2 Intelligence Artificielle et Big Data** à l'École Polytechnique de Lomé, au Togo, je m'oriente vers un profil **Data Science, Machine Learning et Data Engineering**, avec une formation initiale en **Génie Logiciel** et une expérience en **développement logiciel full-stack**.
+Étudiant en **Master 1 Intelligence Artificielle et Big Data** à l'École Polytechnique de Lomé, au Togo, je m'oriente vers un profil **Data Science, Machine Learning et Data Engineering**, avec une formation initiale en **Génie Logiciel** et une expérience en **développement logiciel full-stack**.
 
 Je m'intéresse particulièrement à la **valorisation de données réelles**, à la construction de **pipelines fiables** et aux applications de l'IA aux **langues africaines peu dotées**, notamment l'éwé.
 
@@ -152,8 +152,7 @@ Ces réalisations illustrent mon expérience en **analyse des besoins, conceptio
 
 | Diplôme | Établissement |
 |---|---|
-| M2 Intelligence Artificielle & Big Data *(en cours)* | École Polytechnique de Lomé, Togo |
-| M1 Intelligence Artificielle & Big Data | École Polytechnique de Lomé, Togo |
+| Master 1 Intelligence Artificielle & Big Data | École Polytechnique de Lomé, Togo |
 | Licence Professionnelle en Génie Logiciel | École Polytechnique de Lomé, Togo |
 
 ## Centres d'intérêt
