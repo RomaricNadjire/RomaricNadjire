@@ -132,7 +132,7 @@ Je m'intéresse particulièrement à la **valorisation de données réelles**, �
   </td>
 </tr>
 <tr>
-  <td width="50%" valign="top">
+  <td width="100%" valign="top" colspan="2">
   
   **[coffee-shop-sales-analysis](https://github.com/RomaricNadjire/coffee-shop-sales-analysis)**
   Analyse exploratoire de données transactionnelles pour identifier tendances, produits et comportements de vente.
