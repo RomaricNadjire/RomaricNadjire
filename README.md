@@ -68,52 +68,77 @@ Je m'intéresse particulièrement à la **valorisation de données réelles**, �
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**[ewe-nlp-toolkit](https://github.com/RomaricNadjire/ewe-nlp-toolkit)**
-Pipeline NLP consacré à l'éwé : préparation des données, traduction, ASR, évaluation et déploiement de modèles.
-`Transformers` `PEFT/LoRA` `Hugging Face` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-**[ExploreTogo](https://github.com/RomaricNadjire/ExploreTogo)**
-Pipeline Big Data combinant ingestion, streaming, traitement batch et visualisation de données.
-`Talend` `Kafka` `Spark` `PostgreSQL` `MongoDB` `Docker` `Metabase`
-
-</td>
+  <td width="50%" valign="top">
+  
+  **[ewe-nlp-toolkit](https://github.com/RomaricNadjire/ewe-nlp-toolkit)**
+  Pipeline NLP consacré à l'éwé : préparation des données, traduction, ASR, évaluation et déploiement de modèles.
+  `Transformers` `PEFT/LoRA` `Hugging Face` `Streamlit`
+  
+  </td>
+  <td width="50%" valign="top">
+  
+  **[ExploreTogo](https://github.com/RomaricNadjire/ExploreTogo)**
+  Pipeline Big Data combinant ingestion, streaming, traitement batch et visualisation de données.
+  `Talend` `Kafka` `Spark` `PostgreSQL` `MongoDB` `Docker` `Metabase`
+  
+  </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**[financial-fraud-detection](https://github.com/RomaricNadjire/financial-fraud-detection)**
-Détection de fraudes sur des transactions mobiles avec analyse exploratoire, preprocessing et Machine Learning.
-`Pandas` `Scikit-learn` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-**[iot-sensor-data-quality](https://github.com/RomaricNadjire/iot-sensor-data-quality)**
-Analyse et amélioration de la qualité de données issues de capteurs IoT : valeurs manquantes, outliers et nettoyage.
-`Pandas` `NumPy`
-
-</td>
+  <td width="50%" valign="top">
+  
+  **[financial-fraud-detection](https://github.com/RomaricNadjire/financial-fraud-detection)**
+  Détection de fraudes sur des transactions mobiles avec analyse exploratoire, preprocessing et Machine Learning.
+  `Pandas` `Scikit-learn` `Streamlit`
+  
+  </td>
+  <td width="50%" valign="top">
+  
+  **[iot-sensor-data-quality](https://github.com/RomaricNadjire/iot-sensor-data-quality)**
+  Analyse et amélioration de la qualité de données issues de capteurs IoT : valeurs manquantes, outliers et nettoyage.
+  `Pandas` `NumPy`
+  
+  </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**[yolov8-face-recognition](https://github.com/RomaricNadjire/yolov8-face-recognition)**
-Détection et reconnaissance de visages en temps réel.
-`YOLOv8` `OpenCV` `LBPH`
-
-</td>
-<td width="50%" valign="top">
-
-**[coffee-shop-sales-analysis](https://github.com/RomaricNadjire/coffee-shop-sales-analysis)**
-Analyse exploratoire de données transactionnelles pour identifier tendances, produits et comportements de vente.
-`Pandas` `Seaborn`
-
-</td>
+  <td width="50%" valign="top">
+  
+  **[yolov8-face-recognition](https://github.com/RomaricNadjire/yolov8-face-recognition)**
+  Détection et reconnaissance de visages en temps réel.
+  `YOLOv8` `OpenCV` `LBPH`
+  
+  </td>
+  <td width="50%" valign="top">
+  
+  **[coffee-shop-sales-analysis](https://github.com/RomaricNadjire/coffee-shop-sales-analysis)**
+  Analyse exploratoire de données transactionnelles pour identifier tendances, produits et comportements de vente.
+  `Pandas` `Seaborn`
+  
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  
+  **[financial-fraud-detection](https://github.com/RomaricNadjire/financial-fraud-detection)**
+  Détection de fraudes sur des transactions mobiles avec analyse exploratoire, preprocessing et Machine Learning.
+  `Pandas` `Scikit-learn` `Streamlit`
+  
+  </td>
+  <td width="50%" valign="top">
+  
+  **[neural-networks-from-scratch-numpy](https://github.com/RomaricNadjire/neural-networks-from-scratch-numpy)**
+  Réseaux de neurones implémentés from scratch en NumPy (neurone artificiel, ANN 2 couches, réseau profond) : descente de gradient, rétropropagation, application chat/chien.
+  `Python` `NumPy`
+  
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  
+  **[coffee-shop-sales-analysis](https://github.com/RomaricNadjire/coffee-shop-sales-analysis)**
+  Analyse exploratoire de données transactionnelles pour identifier tendances, produits et comportements de vente.
+  `Pandas` `Seaborn`
+  
+  </td>
 </tr>
 </table>
 
